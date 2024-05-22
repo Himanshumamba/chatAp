@@ -5,7 +5,7 @@
 ### Backend
 1. Navigate to the server directory.
 2. Install dependencies: `npm install`
-3. Start the server: `node index.js`
+3. Start the server: `node server.js`
 
 ### Frontend
 1. Navigate to the `chat-app` directory.
