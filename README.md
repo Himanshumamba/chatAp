@@ -13,7 +13,7 @@
 3. Start the React app: `npm start`
 
 ### Notes
-- Ensure PostgreSQL is running and properly configured in `index.js`. use 
+- Ensure PostgreSQL is running and properly configured in `server.js`. use 
   user: 'your user',
   host: 'localhost',
   database: 'chatdb',
