@@ -19,5 +19,11 @@
   database: 'chatdb',
   password: 'add your password',
   port: 5432,
+DatabaseName: messagess
+database schema
+1-id 
+2-text
+3-is_user
+4-created_at
 
 - Modify the database connection string as needed.
